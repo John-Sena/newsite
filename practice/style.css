@@ -1,0 +1,53 @@
+body{
+    background-color:#a4cef8;
+    text-align: left;
+    margin:auto;
+    width:80%;
+}
+h1{
+    color: rgb(250, 5, 5);
+    border-left: red 5px solid;
+    padding-left: 20px;
+}
+.a1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h3{
+    color: rgb(241, 124, 124);
+    font-weight: 200px;
+}
+
+.a2{
+    color:rgb(239, 18, 18);
+    font-size: 18px;
+    line-height: 1.9em;
+    background-color:rgb(242, 173, 196);
+    letter-spacing: 1.2px;
+    word-spacing: 2px;
+}
+table,th,td{
+     
+    border: 2px solid rgb(239, 31, 31);
+    border-collapse: collapse;
+    padding: 5px ;
+}
+.b1{
+    color:red;
+    background-color: rgb(240, 245, 96);
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+span{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.l1{
+    border: blueviolet 3px solid;
+    padding: 1px;
+    border-radius:15px ;
+}
+
+
